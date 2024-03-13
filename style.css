@@ -11,7 +11,6 @@ table{
 background-color: rgba(58, 11, 99, 1);
 width: 100%;
 height: 100%
-
 }
 
 .preto{
@@ -22,7 +21,7 @@ height: 7.6%
 }
 
 .cabecalho{
-text-align: right;
+text-align: left;
 }
 
 .fotos1{
@@ -40,15 +39,22 @@ height: 900px;
 }
 
 .componentes{
-width: 16%;
+width: 28%;
 height:100%;
 }
 
 .componentes2{
 width: 20%;
 height: 100%;
+column-count: 3 ;
 }
 
+.componentes3{
+text-align: center;
+width: 20%;
+height: 100%;
+margin: auto;
+}
 .sobre{
 height: 100%;
 background-color: rgba(251,69,199,255);
@@ -60,7 +66,7 @@ color: rgb(255, 255, 255);
 }
 
 .info1{
-height: 100%;
+height: 300px;
 width: 100%;
 text-align: center;
 background-color: rgba(137,246,104,255);
@@ -68,4 +74,10 @@ background-color: rgba(137,246,104,255);
 
 .oi{
 border: solid 1px;
+}
+
+.texto2{
+column-count: 3;
+text-align: center;
+margin:auto;
 }
