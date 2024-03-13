@@ -25,15 +25,27 @@ background-color: rgba(58, 11, 99, 1);
 
 .fundo1{
 background-image: url(https://d335luupugsy2.cloudfront.net/cms/files/375319/1662746928/$jmo1mjynf2n);
-height: 93%;
-background-size: cover;
+height: 95%;
+background-size: 100%;
+background-repeat: no-repeat;
 }
 
 .meio{
 background-image: url(https://pbs.twimg.com/media/GIcRat1WMAA7eTj?format=png&name=900x900);
-width: 100%;
+width: 100%;   
 height:100%;
 text-align: center;
+background-position-y: top;
 background-repeat:no-repeat;
 background-position:80%;
+}
+
+.fotos1{
+border: solid 1px rgba(101,15,134,255);
+margin: 10px;
+}
+
+.sobre{
+background-color: rgba(251,69,199,255);
+margin-top: 400px;
 }
