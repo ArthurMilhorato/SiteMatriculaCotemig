@@ -77,6 +77,7 @@ background-color: rgba(251,69,199,255);
 
 .sobre2{
 background-color: #5b1078;
+padding: 33px;
 }
 
 #texto1{
@@ -96,4 +97,28 @@ background-color: rgba(137,246,104,255);
 column-count: 3;
 text-align: center;
 margin:auto;
+}
+
+.botao{
+height: 100px;
+text-align: center;
+text-decoration: none;
+}
+
+#matricula{
+padding-right: 10px;
+padding-left: 10px;
+font-weight: bold;
+font-size: 19px;
+margin-bottom: 45px;
+margin-top: 45px;
+background-color: rgba(138, 77, 157, 1);
+border-radius: 11px;
+padding: 10px;  
+}
+
+.rodape{
+width: 20%;
+column-count: 3;
+text-align: center;
 }
