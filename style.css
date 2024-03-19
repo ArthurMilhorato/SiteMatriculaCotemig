@@ -50,18 +50,37 @@ column-count: 3 ;
 }
 
 .componentes3{
+    padding: 15px;
 text-align: center;
 width: 20%;
 height: 100%;
 margin: auto;
+font-family: Raleway, sans-serif;
 }
+
+.componentes4{
+padding: 30px;
+margin: auto;
+}
+
+.componentes5{
+width: 200px;
+text-align: center;
+padding: 15px;
+padding-left: 0px;
+}
+
 .sobre{
 height: 100%;
 background-color: rgba(251,69,199,255);
 }
 
+.sobre2{
+background-color: #5b1078;
+}
+
 #texto1{
-font-family: Raleway, sans-serif; 
+font-family: Raleway, sans-serif;
 color: rgb(255, 255, 255);
 }
 
@@ -72,9 +91,6 @@ text-align: center;
 background-color: rgba(137,246,104,255);
 }
 
-.oi{
-border: solid 1px;
-}
 
 .texto2{
 column-count: 3;
